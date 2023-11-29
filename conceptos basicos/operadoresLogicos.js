@@ -1,6 +1,6 @@
 /*
 && El operador AND
-|| El Operador OR
+|| El Operador OR 
 ! El operador de negacion o NOT
 ?? El Operador nullish coalescing// fusion de nulos o union nulosa
 */
